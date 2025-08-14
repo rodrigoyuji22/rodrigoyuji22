@@ -1,7 +1,7 @@
 # Rodrigo Koike 👨‍💻    
 **`Desenvolvedor Backend`**
 
-Olá, me chamo Rodrigo Yuji Koike, tenho 22 anos e sou desenvolvedor especializado em backend e APIs web. Crio sistemas que unem performance, segurança e escalabilidade, sempre com foco em entregar valor real para pessoas e negócios.
+Olá, me chamo Rodrigo Yuji Koike, tenho 22 anos e sou desenvolvedor focado em backend e APIs web. Crio sistemas que unem performance, segurança e escalabilidade, sempre com foco em entregar valor real para pessoas e negócios.
 
 Trabalho aplicando Clean Architecture, SOLID e boas práticas de desenvolvimento, garantindo clareza e manutenção a longo prazo. Para mim, tecnologia vai muito além de escrever código — é sobre resolver problemas de forma inteligente e gerar impacto positivo.
 
