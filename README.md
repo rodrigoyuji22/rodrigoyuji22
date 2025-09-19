@@ -108,7 +108,7 @@ Trabalho aplicando Clean Architecture, SOLID e boas práticas de desenvolvimento
     API RESTful com gerenciamento de usuário, autenticação JWT, Clean Architecture e CRUD para tarefas. <br>
     **Stack**: C#, ASP.NET Core, EntityFrameworkCore, MySQL, JWTBearer, Swagger, SOLID  
 
-- **[SCARA Bot Vision](https://github.com/rodrigoyuji22/scara-bot)**
+- **[SCARA Bot Vision](https://github.com/rodrigoyuji22/scarabot_vision)**
   
     API de processamento de imagens para robô SCARA, com detecção de objetos em tempo real e envio de comandos ao hardware.  
     **Stack:** Python, YOLOv8, OpenCV, Arduino.
