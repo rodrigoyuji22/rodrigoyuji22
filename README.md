@@ -108,7 +108,7 @@ Trabalho aplicando Clean Architecture, SOLID e boas práticas de desenvolvimento
     API de processamento de imagens para robô SCARA, com detecção de objetos em tempo real e envio de comandos ao hardware.  
     **Stack:** Python, YOLOv11, OpenCV, Arduino.
   
-- **[Gerador de Relatorio Automático](https://github.com/rodrigoyuji22/report_automation)**
+- **[Gerador Automático de Relatórios](https://github.com/rodrigoyuji22/report_automation)**
 
     Aplicação em Python para extrair relatórios diretamente do banco de dados e realizar envio automático por email em forma de xlsx com formatação. Orquestração feita por servidor local.
     **Stack:** Python, SQL Server, xlsxwriter, pandas, smtplib, pyodbc
