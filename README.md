@@ -103,15 +103,20 @@ Trabalho aplicando Clean Architecture, SOLID e boas práticas de desenvolvimento
 <br clear="left"/>
 
 ## Projetos em Destaque
+- **[SCARA Bot Vision](https://github.com/rodrigoyuji22/scarabot_vision)**
+  
+    API de processamento de imagens para robô SCARA, com detecção de objetos em tempo real e envio de comandos ao hardware.  
+    **Stack:** Python, YOLOv11, OpenCV, Arduino.
+  
+- **[Gerador de Relatorio Automático](https://github.com/rodrigoyuji22/report_automation)**
+
+    Aplicação em Python para extrair relatórios diretamente do banco de dados e realizar envio automático por email em forma de xlsx com formatação. Orquestração feita por servidor local.
+    **Stack:** Python, SQL Server, xlsxwriter, pandas, smtplib, pyodbc
+
 - **[Organizador Pessoal](https://github.com/rodrigoyuji22/NewAPI)**
 
     API RESTful com gerenciamento de usuário, autenticação JWT, Clean Architecture e CRUD para tarefas. <br>
     **Stack**: C#, ASP.NET Core, EntityFrameworkCore, MySQL, JWTBearer, Swagger, SOLID  
-
-- **[SCARA Bot Vision](https://github.com/rodrigoyuji22/scarabot_vision)**
-  
-    API de processamento de imagens para robô SCARA, com detecção de objetos em tempo real e envio de comandos ao hardware.  
-    **Stack:** Python, YOLOv8, OpenCV, Arduino.
 
 - **[DSA](https://github.com/rodrigoyuji22/DSA)**
   
