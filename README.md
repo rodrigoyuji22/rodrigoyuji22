@@ -118,10 +118,6 @@ Trabalho aplicando Clean Architecture, SOLID e boas práticas de desenvolvimento
     API RESTful com gerenciamento de usuário, autenticação JWT, Clean Architecture e CRUD para tarefas. <br>
     **Stack**: C#, ASP.NET Core, EntityFrameworkCore, MySQL, JWTBearer, Swagger, SOLID  
 
-- **[DSA](https://github.com/rodrigoyuji22/DSA)**
-  
-    Estudos de Estruturas de Dados e Algoritmos. Anotações, implementações e resolução de exercícios do LeetCode.    
-    **Linguagem:** C#
 
 <br>
 
